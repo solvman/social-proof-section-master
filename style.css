@@ -204,12 +204,12 @@ body {
 
   .rating {
     padding: 1.25rem;
+    width: 82%;
     flex-direction: row;
     align-items: center;
+    align-self: flex-start;
     justify-content: center;
     gap: 2rem;
-    align-self: flex-start;
-    width: 82%;
   }
 
   .testimonial-card {
