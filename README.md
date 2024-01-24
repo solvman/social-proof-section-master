@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/solvman/social-proof-section-master](https://github.com/solvman/social-proof-section-master)
+- Live Site URL: [https://prismatic-syrniki-5471ce.netlify.app/](https://prismatic-syrniki-5471ce.netlify.app/)
 
 ## My process
 
